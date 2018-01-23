@@ -1,6 +1,6 @@
 <?php
 /*url=
-http://127.0.0.1/TP-PHP/regex/test-regex.php
+http://fxgodin.com/TP/PHP-MYSQL/test-regex.php
 */
 if(isset($_POST['maRegex'])&&isset($_POST['chaineTest'])){
 $chaineTest=$_POST['chaineTest'];
